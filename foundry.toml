@@ -11,6 +11,7 @@ myblockchain = "http://localhost:9650/ext/bc/myblockchain/rpc"
 fuji-c = "https://api.avax-test.network/ext/bc/C/rpc"
 dispatch = "https://subnets.avax.network/dispatch/testnet/rpc"
 mysubnet = "http://localhost:9650/ext/bc/mysubnet/rpc"
+MEGHDEB = "https://fantastic-train-r4gjr94jxrxxfx79v-45853.app.github.dev/ext/bc/21ULRDDt8w12Kvg34gRAHmtwaUsf1C1cjTBfg9VEPaViMmo3DZ/rpc"
 
 
 # See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
